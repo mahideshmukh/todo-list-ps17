@@ -1,0 +1,11 @@
+To-Do List Project Test Cases
+
+| Test ID | Test Scenario | Expected Result |
+|---|---|---|
+| TC01 | Add a task | Task added successfully |
+| TC02 | View tasks | All tasks displayed |
+| TC03 | Complete a task | Task marked completed |
+| TC04 | Delete a task | Task deleted |
+| TC05 | Invalid input | Error message displayed |
+| TC06 | Exit program | Program closes |
+| TC07 | Empty task | Appropriate validation |
